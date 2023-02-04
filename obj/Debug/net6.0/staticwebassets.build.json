@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "T3d9S/wwwPzW5AYkiNwQuhOMOuaroh99XPPVi/BxPCw=",
+  "Source": "ApiWithWatchDog",
+  "BasePath": "_content/ApiWithWatchDog",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
